@@ -1,0 +1,10 @@
+NP
+VP
+PP
+ADJP
+ADVP
+SBAR
+SBARQ
+WHadvp
+WHnp
+WHpp
